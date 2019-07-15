@@ -13,7 +13,7 @@ The Appian integrations invoke a collection of Nuxeo REST endpoints.  Many of th
 | applicationName | string | Application name (e.g., 'appian') |
 | deviceId | string | Device ID (e.g., 'designer') |
 | deviceDescription | string | Device Description (e.g., 'appian integration') |
-| permission | string | Read/write permissions () |
+| permission | string | Read/write permissions ('rw') |
 
 ## Integration: NX_Automation
 
